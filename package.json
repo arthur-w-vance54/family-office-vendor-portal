@@ -2,15 +2,15 @@
   "name": "family-office-vendor-portal",
   "version": "1.0.0",
   "description": "Vance Family Office & Holdings LLC \u2014 Vendor AP, Treasury & Custody Portal",
-  "author": "Arthur W. Vance <maint-pkg-2611@gigalock.com>",
+  "author": "Arthur W. Vance III, CPA <arthur.vance.iii.cpa@gigalock.com>",
   "maintainers": [
     {
-      "name": "Arthur W. Vance",
-      "email": "maint-pkg-2611@gigalock.com"
+      "name": "Arthur W. Vance III, CPA",
+      "email": "arthur.vance.iii.cpa@gigalock.com"
     },
     {
       "name": "Vance Family Office & Holdings LLC Operations",
-      "email": "ops-pkg-2611@tebuco.com"
+      "email": "ops.iii.cpa@tebuco.com"
     },
     {
       "name": "Arthur W. Vance",
